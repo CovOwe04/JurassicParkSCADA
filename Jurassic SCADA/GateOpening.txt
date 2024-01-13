@@ -1,0 +1,6 @@
+Opening:0%
+Opening:20%
+Opening:40%
+Opening:60%
+Opening:80%
+Opening:100%

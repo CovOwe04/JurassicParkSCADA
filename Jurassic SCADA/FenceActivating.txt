@@ -1,0 +1,6 @@
+Activating:0%
+Activating:20%
+Activating:40%
+Activating:60%
+Activating:80%
+Activating:100%

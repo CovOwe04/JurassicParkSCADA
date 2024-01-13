@@ -1,0 +1,42 @@
+<RCC>
+  <qresource prefix="/JurassicSCADA">
+    <file>weather icon.png</file>
+    <file>food icon.png</file>
+    <file>Incubator arm.png</file>
+    <file>Monorail icon.png</file>
+    <file>Camera.png</file>
+    <file>Dinosaur 1 NV.jpg</file>
+    <file>Dinosaur 2 NV.jpg</file>
+    <file>Dinosaur 3 NV.jpg</file>
+    <file>Dinosaur 4 NV.jpg</file>
+    <file>Dinosaur 5 NV.jpg</file>
+    <file>Dinosaur 6 NV.jpg</file>
+    <file>Dinosaur 6.png</file>
+    <file>Dinosaur 5.jpg</file>
+    <file>Dinosaur 4.jpg</file>
+    <file>Dinosaur 3.jpg</file>
+    <file>Dinosaur 1.jpg</file>
+    <file>Dinosaur 2.jpg</file>
+    <file>LEDgreen.png</file>
+    <file>LEDred.png</file>
+  </qresource>
+  <qresource prefix="JurassicSCADA">
+    <file>LEDred.png</file>
+    <file>Fence Icon.png</file>
+    <file>LEDgreen.png</file>
+    <file>Gate_Icon.png</file>
+    <file>Camera.png</file>
+    <file>Dinosaur 1 NV.jpg</file>
+    <file>Dinosaur 2 NV.jpg</file>
+    <file>Dinosaur 3 NV.jpg</file>
+    <file>Dinosaur 4 NV.jpg</file>
+    <file>Dinosaur 5 NV.jpg</file>
+    <file>Dinosaur 6 NV.jpg</file>
+    <file>Dinosaur 6.png</file>
+    <file>Dinosaur 5.jpg</file>
+    <file>Dinosaur 4.jpg</file>
+    <file>Dinosaur 3.jpg</file>
+    <file>Dinosaur 1.jpg</file>
+    <file>Dinosaur 2.jpg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+Closing:0%
+Closing:20%
+Closing:40%
+Closing:60%
+Closing:80%
+Closing:100%
